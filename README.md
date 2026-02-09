@@ -39,29 +39,30 @@ I am a final-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Col
 ### 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Mehta13&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="Dhruv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Mehta13&layout=compact&theme=gotham&hide_border=true&count_private=true" height="150" alt="Top Languages" />
-</div>
+
+[![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Mehta13&show_icons=true&theme=gotham&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Mehta13&layout=compact&theme=gotham&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-<div align="center"> 
-  <!-- Trophies with better visibility config -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-Mehta13&theme=git_dark&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dhruv-Mehta13&theme=git_dark&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
 ### 🤝 Connect
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/dhruvmehta13" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:mehtadhruv383@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/dhruvMehta_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>

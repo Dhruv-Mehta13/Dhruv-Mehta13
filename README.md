@@ -81,16 +81,4 @@ I am a final-year **B.Tech in Computer Engineering** student at **Dwarkadas J. S
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Mehta13&show_icons=true&theme=gotham&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Mehta13&layout=compact&theme=gotham&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dhruv-Mehta13&theme=git_dark&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>

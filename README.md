@@ -1,4 +1,6 @@
 
+## 🔥 Portfolio: [**Check out my Interactive Portfolio**](https://dhruv-mehta13.github.io/dhruv-portfolio/)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruvmehta13/) 
 

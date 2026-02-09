@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://dhruv-mehta13.github.io/dhruv-portfolio/">
-    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000000?style=for-the-badge&logoColor=white" alt="View My Portfolio" />
   </a>
 </div>
 

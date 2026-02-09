@@ -8,15 +8,40 @@
 
 <br />
 
-### 👨‍💻 Software Developer
+### 👨‍💻 About Me
 
-I am a final-year **Computer Engineering** student at **Dwarkadas J. Sanghvi College of Engineering** with significant internship experience in full-stack development. I specialize in building scalable web and mobile applications using **Flutter**, **React**, and **Node.js**.
+I am a final-year **B.Tech Computer Engineering** student at **Dwarkadas J. Sanghvi College of Engineering** (CGPA: 8.92). I specialize in **Full-Stack Development** and **Cross-Platform Mobile Apps**, with a strong focus on building scalable systems and clean architecture.
 
-- 🔭 **Experience**: 
-  - **Pwnbi**: Optimized backend latency by 40% and reduced app loading time by 60%.
-  - **Nexstym**: Increased user retention by 25% and reduced server costs by 30% via AWS optimization.
-- 🌱 **Focus**: Scalable System Architecture, Cross-platform Development, and RESTful APIs.
-- 🎓 **Education**: B.Tech in Computer Engineering (8.92 CGPA).
+- 🔭 **Hackathons**: Finalist at **BitNBuild'24** (International Hackathon) & Qualifier at **DJACM's L.O.C 6.0**.
+- 🌱 **Interests**: System Architecture, REST APIs, State Management (BLoC, Provider).
+- 💬 **Ask me about**: Flutter, ReactJS, NodeJS, and Cloud integrations.
+
+---
+
+### � Experience
+
+**Software Developer Intern | Book Your Brands** *(Remote)*  
+- Built a **Project Management Platform** with real-time chat and dashboard.
+- Integrated **Synology FileStation API** for secure, high-speed media storage and version control.
+- Streamlined client reviews and video draft sharing workflows.
+
+**Software Developer Intern | Engaze** *(Mumbai)*  
+- Developed an interactive **Early Brain Development app** with API-based content delivery.
+- Migrated application state management from **GetX to Provider** for better stability.
+- Implemented robust modular features using **BLoC** and **Clean Architecture**.
+
+---
+
+### 🚀 Featured Projects
+
+**Book Your Brands Platform** | *Flutter, Dart, Synology API*  
+A role-based project management system for video editing firms featuring structured workflows, automated backups via Synology NAS, and in-app communication.
+
+**Expense Tracker** | *Flutter, Dart, ReactJS, NodeJS, MongoDB*  
+A smart personal finance manager with interactive charts, category-wise tracking, and recurring alerts. Built with a Flutter frontend and React/Node backend.
+
+**StockSense** | *Flutter, ReactJS, Firebase, Firestore*  
+An inventory management system with automated low-stock alerts and barcode scanning for real-time multi-location tracking.
 
 ---
 
@@ -26,11 +51,10 @@ I am a final-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Col
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Frameworks** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white) |
 
 </div>
 

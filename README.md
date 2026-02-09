@@ -10,53 +10,74 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year **B.Tech Computer Engineering** student at **Dwarkadas J. Sanghvi College of Engineering** (CGPA: 8.92). I specialize in **Full-Stack Development** and **Cross-Platform Mobile Apps**, with a strong focus on building scalable systems and clean architecture.
+I am a final-year **B.Tech in Computer Engineering** student at **Dwarkadas J. Sanghvi College of Engineering** with an **8.92 CGPA**. Based in **Mumbai, Maharashtra**, I specialize in building scalable web and mobile applications.
 
-- 🔭 **Hackathons**: Finalist at **BitNBuild'24** (International Hackathon) & Qualifier at **DJACM's L.O.C 6.0**.
-- 🌱 **Interests**: System Architecture, REST APIs, State Management (BLoC, Provider).
-- 💬 **Ask me about**: Flutter, ReactJS, NodeJS, and Cloud integrations.
-
----
-
-### � Experience
-
-**Software Developer Intern | Book Your Brands** *(Remote)*  
-- Built a **Project Management Platform** with real-time chat and dashboard.
-- Integrated **Synology FileStation API** for secure, high-speed media storage and version control.
-- Streamlined client reviews and video draft sharing workflows.
-
-**Software Developer Intern | Engaze** *(Mumbai)*  
-- Developed an interactive **Early Brain Development app** with API-based content delivery.
-- Migrated application state management from **GetX to Provider** for better stability.
-- Implemented robust modular features using **BLoC** and **Clean Architecture**.
+- **Email**: [mehtadhruv383@gmail.com](mailto:mehtadhruv383@gmail.com)
+- **LinkedIn**: [dhruvmehta13](https://www.linkedin.com/in/dhruvmehta13/)
+- **LeetCode**: [dhruvMehta_](https://leetcode.com/u/dhruvMehta_/)
 
 ---
 
-### 🚀 Featured Projects
+### 💼 Experience
 
-**Book Your Brands Platform** | *Flutter, Dart, Synology API*  
-A role-based project management system for video editing firms featuring structured workflows, automated backups via Synology NAS, and in-app communication.
+**Book Your Brands** | *Software Developer Intern*  
+*Remote (June 2025 – August 2025)*  
+- Created a complete **project management platform** with a clean dashboard, real-time chat, and a secure workflow for sharing video drafts, helping streamline client reviews.
+- Set up a reliable **file management backend** using the **Synology FileStation API** to securely support large media uploads and version control.
 
-**Expense Tracker** | *Flutter, Dart, ReactJS, NodeJS, MongoDB*  
-A smart personal finance manager with interactive charts, category-wise tracking, and recurring alerts. Built with a Flutter frontend and React/Node backend.
+**Engaze** | *Software Developer Intern*  
+*Mumbai, India (June 2024 – August 2024)*  
+- Worked on an interactive **Early Brain Development** app with API-based content delivery and migrated the state management from **GetX** to **Provider**.
+- Contributed to **Engaze**, a job-focused networking platform, utilizing **BLoC** and **Clean Architecture** for modular feature design.
 
-**StockSense** | *Flutter, ReactJS, Firebase, Firestore*  
-An inventory management system with automated low-stock alerts and barcode scanning for real-time multi-location tracking.
+---
+
+### 🚀 Projects
+
+**BookYourBrands – Freelance Project for Video Editing Firms**  
+[**View Project**](https://garnet-indigo-da7.notion.site/Book-Your-Brands-1c87d89223018034a9edd3edc0d8bc20)  
+- A **role-based project management platform** with workflows for project creation, task updates, and in-app chat.
+- Integrated **Synology NAS** for secure storage, automated backups, and high-speed file access.
+- **Tech**: Flutter, Dart, Synology FileStation API, Firebase.
+
+**Expense Tracker – Smart Personal Finance Manager**  
+[**View Project**](https://garnet-indigo-da7.notion.site/Expense-Tracker-App-2037d8922301809090fed0d2f53c7099)  
+- A cross-platform **personal finance app** to track expenses, set budgets, and analyze spending with interactive charts.
+- Implemented **category-wise tracking**, recurring alerts, and a **Flutter + React/Node** architecture.
+- **Tech**: Flutter, Dart, React.js, Node.js, Express.js, MongoDB, TailwindCSS.
+
+**StockSense – Inventory Management System**  
+[**View Project**](https://garnet-indigo-da7.notion.site/Stock-Sense-Inventory-Management-System-2037d89223018012b3e8eb4ada12c6ac)  
+- An end-to-end **inventory management system** to monitor stock levels, track sales trends, and automated low-stock alerts.
+- Implemented **barcode scanning**, reporting dashboards, and real-time multi-location tracking.
+- **Tech**: Flutter, Dart, React.js, Firebase, Firestore, Figma.
 
 ---
 
 ### 🛠️ Technical Skills
 
-<div align="center">
-
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Frameworks** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white) |
+| **Languages** | C, C++, Python, Java, JavaScript |
+| **Libraries/Frameworks** | Flutter, ReactJS, NodeJS, FastAPI, Flask |
+| **Databases** | MySQL, MongoDB, Firebase |
+| **Tools** | Docker, Git, Postman, Android Studio |
+| **Concepts** | REST APIs, Clean Architecture, BLoC, State Management |
 
-</div>
+---
+
+### 🎓 Education
+
+- **Dwarkadas J. Sanghvi College of Engineering** | B.Tech in Computer Engineering | **8.92 CGPA** (2022 – 2026)
+- **Sheth Vidya Mandir Junior College Of Science** | HSC | **85%** (2020 – 2022)
+- **ST. Augustine's High School** | SSC | **85.60%** (2019 – 2020)
+
+---
+
+### 🏆 Achievements
+
+- **Top 10 Qualifier** - DJACM's L.O.C 6.0 hackathon
+- **Final Qualifier** - BitNBuild'24 international hackathon, Fr. CRCE Bandra
 
 ---
 
@@ -72,22 +93,4 @@ An inventory management system with automated low-stock alerts and barcode scann
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Dhruv-Mehta13&theme=git_dark&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
-
----
-
-### 🤝 Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/dhruvmehta13" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mehtadhruv383@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/dhruvMehta_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
 </div>

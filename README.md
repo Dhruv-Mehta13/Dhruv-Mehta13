@@ -28,3 +28,13 @@ I am a final-year **B.Tech in Computer Engineering** student at **Dwarkadas J. S
 | **Concepts** | REST APIs, Clean Architecture, BLoC, State Management |
 
 ---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-Mehta13&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="dhruv-mehta13 trophies" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Mehta13&show_icons=true&theme=radical" alt="dhruv-mehta13 github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Mehta13&layout=compact&theme=radical" alt="dhruv-mehta13 top languages" />
+</div>

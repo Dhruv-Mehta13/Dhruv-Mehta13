@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year **B.Tech in Computer Engineering** student at **Dwarkadas J. Sanghvi College of Engineering** with an **8.92 CGPA**. Based in **Mumbai, Maharashtra**, I specialize in building scalable web and mobile applications.
+I am a final-year **B.Tech in Computer Engineering** student at **Dwarkadas J. Sanghvi College of Engineering** with an **8.96 CGPA**. Based in **Mumbai, Maharashtra**, I specialize in building scalable web and mobile applications.
 
 - **Email**: [mehtadhruv383@gmail.com](mailto:mehtadhruv383@gmail.com)
 - **LinkedIn**: [dhruvmehta13](https://www.linkedin.com/in/dhruvmehta13/)
